@@ -1,7 +1,7 @@
 ## How to test this project ?
-1.clone this project to your pc
-2.use cmd to install node_module by cd to local repository and use npm install
-3.use npm start
+1.clone this project to your pc <br />
+2.use cmd to install node_module by cd to local repository and use npm install<br />
+3.use npm start<br /><br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
