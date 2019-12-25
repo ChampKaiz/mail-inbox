@@ -1,16 +1,18 @@
-.navbar {
-  overflow: hidden;
-  position: fixed;
-  width: 100%;
-  top: 0;
-  border-bottom: 0.5px solid lightgray;
-}
 .main {
   margin-top: 60px;
   font-family: "Roboto", sans-serif;
 }
+
+.navbar {
+  overflow: hidden;
+  position: fixed; /*sticky nav-bar*/
+  width: 100%;
+  top: 0;
+  border-bottom: 0.5px solid lightgray;
+}
+
 i {
-  border: solid rgb(56, 151, 240);
+  border: solid rgb(56, 151, 240); /*Filter arrow down*/
   border-width: 0 3px 3px 0;
   display: inline-block;
   padding: 3px;
@@ -19,6 +21,7 @@ i {
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
+
 .circle {
   height: 35px;
   width: 35px;
@@ -30,6 +33,7 @@ i {
   text-align: center;
   font-size: 25px;
 }
+
 .mail {
   border-bottom: 1px solid lightgray;
   margin: 10px;
